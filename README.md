@@ -1,2 +1,2 @@
 # repo-teste
-repo pra testar suo no linux mint
+repo pra testar uso no linux mint
